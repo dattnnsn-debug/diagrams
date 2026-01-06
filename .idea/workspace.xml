@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Побудова скаттер діаграми з 5 точок">
+    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Градієнт кольору">
       <change beforePath="$PROJECT_DIR$/scatter_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scatter_squares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767705222870</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Графік на 1000 значень, зміна кольру">
+      <option name="closed" value="true" />
+      <created>1767705725816</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767705725816</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Градієнт кольору">
+      <option name="closed" value="true" />
+      <created>1767705868622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767705868622</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +179,8 @@
     <MESSAGE value="Змінити стиль діаграми" />
     <MESSAGE value="Побудова скаттер діаграми з однієї точки" />
     <MESSAGE value="Побудова скаттер діаграми з 5 точок" />
-    <option name="LAST_COMMIT_MESSAGE" value="Побудова скаттер діаграми з 5 точок" />
+    <MESSAGE value="Графік на 1000 значень, зміна кольру" />
+    <MESSAGE value="Градієнт кольору" />
+    <option name="LAST_COMMIT_MESSAGE" value="Градієнт кольору" />
   </component>
 </project>
