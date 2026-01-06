@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="first visualisation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpl_squares.py" afterDir="false" />
+    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Змінити стиль діаграми">
+      <change afterPath="$PROJECT_DIR$/scatter_squares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,18 +42,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mpl_squares.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.mpl_squares.executor": "Run",
+    "Python.scatter_squares.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="diagrams" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767703930880</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Змінити стиль діаграми">
+      <option name="closed" value="true" />
+      <created>1767704543066</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767704543066</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +144,7 @@
     <MESSAGE value="Побудуємо графік квадратів чисел, відкоригуємо підписи осей, товщину ліній, коригуємо діаграму, щоб вона починалась з одиниці" />
     <MESSAGE value="сторюємо gitignore" />
     <MESSAGE value="first visualisation" />
-    <option name="LAST_COMMIT_MESSAGE" value="first visualisation" />
+    <MESSAGE value="Змінити стиль діаграми" />
+    <option name="LAST_COMMIT_MESSAGE" value="Змінити стиль діаграми" />
   </component>
 </project>
