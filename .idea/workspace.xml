@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Побудова скаттер діаграми з однієї точки">
+    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Побудова скаттер діаграми з 5 точок">
       <change beforePath="$PROJECT_DIR$/scatter_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scatter_squares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767705082636</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Побудова скаттер діаграми з 5 точок">
+      <option name="closed" value="true" />
+      <created>1767705222870</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767705222870</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +162,7 @@
     <MESSAGE value="first visualisation" />
     <MESSAGE value="Змінити стиль діаграми" />
     <MESSAGE value="Побудова скаттер діаграми з однієї точки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Побудова скаттер діаграми з однієї точки" />
+    <MESSAGE value="Побудова скаттер діаграми з 5 точок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Побудова скаттер діаграми з 5 точок" />
   </component>
 </project>
