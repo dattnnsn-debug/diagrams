@@ -3,12 +3,12 @@
 
 import matplotlib.pyplot as plt
 
-x_values = range(1, 6) #Створюємо діапазон
+x_values = range(1, 5001) #Створюємо діапазон
 y_values = [x**3 for x in x_values] #Рахуємо куби діапазону
 
 plt.style.use('seaborn-v0_8') #Додаємо стиль діаграми
 fig, ax = plt.subplots() #Генеруємо функцією діаграму
-ax.scatter(x_values, y_values, c=y_values, cmap=plt.cm.viridis, s=100)
+ax.scatter(x_values, y_values, c=y_values, cmap=plt.cm.viridis, s=2)
 
 '''Задати назву для графіка та кожної з осей.'''
 ax.set_title("Cube Numbers", fontsize = 24)
@@ -19,8 +19,7 @@ ax.set_ylabel("Cube of Value", fontsize = 14)
 ax.tick_params(axis='both', which='major', labelsize=14)
 
 '''Задати діапазон для кожної з осей.'''
-ax.axis([0, 6, 0, 150])
+ax.axis([0, 5100, 0, 135000000000]) #Рахуємо нижню межу = 5000+100 та верхню межу 5000**3 *10%
 
-'''Автоматичне збререження діаграми'''
-
+'''Показуємо діаграму'''
 plt.show()
