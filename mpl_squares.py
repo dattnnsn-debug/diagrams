@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt #Імпорт модуля, що генерує 
 '''Перевизначаємо уставну поведінку та додамо вхідні значення'''
 input_values = [1, 2, 3, 4, 5]
 squares = [1, 4, 9, 16, 25] #Створюємо список для візуалізації
+plt.style.use('seaborn-v0_8') #Додамо стиль діаграми
 '''Змінна fig - весь рисунок, змінна ax - одна діаграма на рисунку, метод plot будує діаграму'''
 fig, ax = plt.subplots()
 ax.plot(input_values, squares, linewidth = 3)
