@@ -1,0 +1,17 @@
+import matplotlib.pyplot as plt #Імпорт модуля, що генерує діаграми
+
+'''Перевизначаємо уставну поведінку та додамо вхідні значення'''
+input_values = [1, 2, 3, 4, 5]
+squares = [1, 4, 9, 16, 25] #Створюємо список для візуалізації
+'''Змінна fig - весь рисунок, змінна ax - одна діаграма на рисунку, метод plot будує діаграму'''
+fig, ax = plt.subplots()
+ax.plot(input_values, squares, linewidth = 3)
+
+'''Задати назву для графіка та кожної з осей'''
+ax.set_title("Square Numbers", fontsize = 24)
+ax.set_xlabel("Value", fontsize = 14)
+ax.set_ylabel("Square of Value", fontsize = 14)
+
+'''Задати розмір шрифту для підписів на розмітці'''
+ax.tick_params(axis = 'both', labelsize = 14)
+plt.show()
