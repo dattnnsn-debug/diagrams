@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Градієнт кольору">
-      <change beforePath="$PROJECT_DIR$/scatter_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scatter_squares.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Автоматичне збереження діаграм" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767705868622</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Автоматичне збереження діаграм">
+      <option name="closed" value="true" />
+      <created>1767706011654</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767706011654</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +187,7 @@
     <MESSAGE value="Побудова скаттер діаграми з 5 точок" />
     <MESSAGE value="Графік на 1000 значень, зміна кольру" />
     <MESSAGE value="Градієнт кольору" />
-    <option name="LAST_COMMIT_MESSAGE" value="Градієнт кольору" />
+    <MESSAGE value="Автоматичне збереження діаграм" />
+    <option name="LAST_COMMIT_MESSAGE" value="Автоматичне збереження діаграм" />
   </component>
 </project>
