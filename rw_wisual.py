@@ -9,7 +9,9 @@ while True:
     '''Нанести на графік точки блукання'''
     plt.style.use('classic')
     fig, ax = plt.subplots()
-    ax.scatter(rw.x_values, rw.y_values, s=15)
+    point_numbers = range(rw.num_points)
+    ax.scatter(rw.x_values, rw.y_values, c=point_numbers,
+               cmap=plt.cm.Blues, edgecolors='none', s=5)
     plt.show()
 
     keep_running = input("Згенерувати випадкове блукання, y/n: ")
