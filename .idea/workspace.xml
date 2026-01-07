@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Побудова діаграми випадкових блукань">
+    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Виділення першої і останньої точки">
       <change beforePath="$PROJECT_DIR$/rw_wisual.py" beforeDir="false" afterPath="$PROJECT_DIR$/rw_wisual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767776982731</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Форматування діаграми випадкових блукань: колір точок">
+      <option name="closed" value="true" />
+      <created>1767777377266</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1767777377266</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Виділення першої і останньої точки">
+      <option name="closed" value="true" />
+      <created>1767777551490</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1767777551490</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +252,8 @@
     <MESSAGE value="Будуємо діаграму для кубів чисел від 1 до 5000" />
     <MESSAGE value="Написали клас randomwalk, що приймає випадкові рішення про просування" />
     <MESSAGE value="Побудова діаграми випадкових блукань" />
-    <option name="LAST_COMMIT_MESSAGE" value="Побудова діаграми випадкових блукань" />
+    <MESSAGE value="Форматування діаграми випадкових блукань: колір точок" />
+    <MESSAGE value="Виділення першої і останньої точки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виділення першої і останньої точки" />
   </component>
 </project>
