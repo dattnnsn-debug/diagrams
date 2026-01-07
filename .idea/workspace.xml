@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Виділення першої і останньої точки">
+    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Збільшити кількість точок до 50_000">
       <change beforePath="$PROJECT_DIR$/rw_wisual.py" beforeDir="false" afterPath="$PROJECT_DIR$/rw_wisual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -224,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767777551490</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Збільшити кількість точок до 50_000">
+      <option name="closed" value="true" />
+      <created>1767777848546</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1767777848546</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +262,7 @@
     <MESSAGE value="Побудова діаграми випадкових блукань" />
     <MESSAGE value="Форматування діаграми випадкових блукань: колір точок" />
     <MESSAGE value="Виділення першої і останньої точки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Виділення першої і останньої точки" />
+    <MESSAGE value="Збільшити кількість точок до 50_000" />
+    <option name="LAST_COMMIT_MESSAGE" value="Збільшити кількість точок до 50_000" />
   </component>
 </project>
