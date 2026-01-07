@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Будуємо діаграму для кубів чисел від 1 до 5000">
-      <change afterPath="$PROJECT_DIR$/random_walk.py" afterDir="false" />
+    <list default="true" id="ee848b45-d5f2-4b40-a10e-52068421675f" name="Changes" comment="Написали клас randomwalk, що приймає випадкові рішення про просування">
+      <change afterPath="$PROJECT_DIR$/rw_wisual.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
     "Python.mpl_squares.executor": "Run",
+    "Python.rw_wisual.executor": "Run",
     "Python.scatter_cube.executor": "Run",
     "Python.scatter_squares.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -192,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767724952617</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Написали клас randomwalk, що приймає випадкові рішення про просування">
+      <option name="closed" value="true" />
+      <created>1767729800449</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767729800449</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +227,7 @@
     <MESSAGE value="Автоматичне збереження діаграм" />
     <MESSAGE value="Будуємо діаграму для кубів чисел від 1 до 5" />
     <MESSAGE value="Будуємо діаграму для кубів чисел від 1 до 5000" />
-    <option name="LAST_COMMIT_MESSAGE" value="Будуємо діаграму для кубів чисел від 1 до 5000" />
+    <MESSAGE value="Написали клас randomwalk, що приймає випадкові рішення про просування" />
+    <option name="LAST_COMMIT_MESSAGE" value="Написали клас randomwalk, що приймає випадкові рішення про просування" />
   </component>
 </project>
